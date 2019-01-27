@@ -4,3 +4,45 @@
 
 display:none;
 }
+
+h1 {
+	font-family: 'Oswald', sans-serif;
+	margin-bottom: 10px;
+}
+
+#aButton {
+	width: 100px;
+	height: 100px;
+	margin-bottom: 50px;
+	}
+
+#bButton {
+	width: 100px;
+	height: 100px;
+	margin-bottom: 50px;
+
+}
+
+#cUp {
+	width: 100px;
+	height: 100px;
+	margin-bottom: 50px;
+}
+
+#cDown {
+	width: 100px;
+	height: 100px;
+	margin-bottom: 50px;
+}
+
+#cRight {
+	width: 100px;
+	height: 100px;
+	margin-bottom: 50px;
+}
+
+#cLeft {
+	width: 100px;
+	height: 100px;
+	margin-bottom: 50px;
+}
